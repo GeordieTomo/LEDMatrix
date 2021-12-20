@@ -6,3 +6,4 @@ You'll need to install the neopixel matrix library.
 
 They are roughly based on some glsl shader code, using a nested for loop to assign each pixel a colour based on its pixel coord. Should resize nicely to any size matrix, as shader code maps the screen size from 0-1. (although could be a bit computationally expensive for a bigger matrix.
 
+a video about making the display: https://youtu.be/i1GL2w-VhMI
